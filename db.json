@@ -22,7 +22,7 @@
 			"location": "Ta' Xbiex",
 			"date": "21st of July",
 			"time": "19.00"
-		}
+		},
 		{
 			"id": 4,
 			"title": "Task 4",
@@ -30,6 +30,6 @@
 			"location": "Ta' Xbiex",
 			"date": "21st of July",
 			"time": "19.00"
-		},
+		}
 	]
 }
