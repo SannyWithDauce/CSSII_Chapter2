@@ -30,6 +30,22 @@
 			"location": "Ta' Xbiex",
 			"date": "21st of July",
 			"time": "19.00"
+		},
+		{
+			"id": 5,
+			"title": "Task 5",
+			"description": "Description for Task 5",
+			"location": "Ta' Xbiex",
+			"date": "21st of July",
+			"time": "19.00"
+		},
+		{
+			"id": 6,
+			"title": "Task 6",
+			"description": "Description for Task 6",
+			"location": "Ta' Xbiex",
+			"date": "21st of July",
+			"time": "19.00"
 		}
 	]
 }
